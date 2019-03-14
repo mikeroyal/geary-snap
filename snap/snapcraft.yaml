@@ -1,5 +1,5 @@
 name: geary
-version: 0.13
+version: 0.13.0
 summary: Send and receive email 
 description: Geary is an email application built around conversations, for the GNOME 3 desktop.
   
